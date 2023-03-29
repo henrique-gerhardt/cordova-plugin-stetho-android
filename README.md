@@ -16,7 +16,7 @@ The Stetho is initialized when the Cordova is initialized, so the only requirmen
 - Run the following command:
 
 ```shell
-    cordova plugin add cordova-plugin-stetho-android 
+    cordova plugin add https://github.com/henrique-gerhardt/cordova-plugin-stetho-android.git --nofetch
 ``` 
 
 ## Features
